@@ -1,7 +1,4 @@
 # Análisis de Retención de Clientes - Model Fitness
-Análisis de Retención de Clientes para Model Fitness
-
-## Descripción del Proyecto
 Este proyecto fue desarrollado para Model Fitness, una cadena de gimnasios, con el objetivo de analizar la retención de clientes y predecir la cancelación utilizando técnicas de machine learning y análisis de datos. El análisis permite identificar patrones en el comportamiento de los usuarios y proporciona recomendaciones para mejorar la retención de clientes.
 
 ### Objetivos
